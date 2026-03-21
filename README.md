@@ -1,4 +1,4 @@
-div align="center">
+
 
 # 🛒 MandiBuddy 🧠
 ### AI Market Intelligence for Every Indian Farmer
