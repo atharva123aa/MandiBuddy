@@ -155,7 +155,8 @@ in every farmer's pocket.
 ## 🤝 Connect
 
 Built with ❤️ from India
-by a 14 year old who believes
+by a  cool guy
+who believes
 technology should solve real problems.
 
 ---
