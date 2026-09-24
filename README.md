@@ -3,6 +3,7 @@
 # 🛒 MandiBuddy 🧠 
 ### AI Market Intelligence for Every Indian Farmer
 
+  
 
 
 ![Status](https://img.shields.io/badge/Status-Building-orange)
